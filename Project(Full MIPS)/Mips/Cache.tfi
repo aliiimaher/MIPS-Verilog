@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+Cache instance_name (
+    .inputAddr(inputAddr), 
+    .data_line(data_line), 
+    .clk(clk), 
+    .outputAddr(outputAddr), 
+    .hitBit(hitBit)
+    );
+
+

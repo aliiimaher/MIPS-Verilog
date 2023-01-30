@@ -1,0 +1,24 @@
+
+
+
+// Instantiate the module
+Execute instance_name (
+    .clk(clk), 
+    .ALUReadData1(ALUReadData1), 
+    .ALUReadData2(ALUReadData2), 
+    .immediate(immediate), 
+    .funct(funct), 
+    .ALUOp(ALUOp), 
+    .ALUSrc(ALUSrc), 
+    .lastPC(lastPC), 
+    .rt(rt), 
+    .rd(rd), 
+    .RegDst(RegDst), 
+    .ALUResult(ALUResult), 
+    .zero(zero), 
+    .AddResult(AddResult), 
+    .ALUReadData2_Out(ALUReadData2_Out), 
+    .RdOrRt(RdOrRt)
+    );
+
+

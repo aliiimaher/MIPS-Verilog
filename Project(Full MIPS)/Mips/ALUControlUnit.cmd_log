@@ -1,0 +1,3 @@
+vhdtdtfi -lib work {G:/Term5/CA Lab/Mips/Mips/ALUControlUnit.v} -lang verilog -prj Mips -o ALUControlUnit.spl -module ALUControlUnit -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aartix7 ALUControlUnit.spl {G:/Term5/CA Lab/Mips/Mips/ALUControlUnit.sym} 
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/ALUControlUnit.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//ALUControlUnit.v" -module ALUControlUnit -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

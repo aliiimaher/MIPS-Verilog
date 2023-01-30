@@ -1,0 +1,4074 @@
+ISim log file
+Running: G:\Term5\CA Lab\Mips\Mips\MIPS_TB_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb G:/Term5/CA Lab/Mips/Mips/MIPS_TB_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+        23
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+         X
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        20
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+        20
+---------
+ 4
+        20
+---------
+ 7
+        20
+---------
+10
+        20
+---------
+13
+        20
+---------
+16
+        20
+---------
+20
+        20
+---------
+22
+        20
+---------
+24
+        20
+---------
+26
+        23
+---------
+18
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+        20
+---------
+ 4
+        20
+---------
+ 7
+        20
+---------
+10
+        20
+---------
+13
+        20
+---------
+16
+        20
+---------
+20
+        20
+---------
+22
+        20
+---------
+24
+        20
+---------
+26
+        23
+---------
+18
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+Permission Denid
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        20
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        20
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+        20
+---------
+ 4
+        20
+---------
+ 7
+        20
+---------
+10
+        20
+---------
+13
+        20
+---------
+16
+        20
+---------
+20
+        20
+---------
+22
+        20
+---------
+24
+        20
+---------
+26
+        23
+---------
+18
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+        20
+---------
+ 4
+        20
+---------
+ 7
+        20
+---------
+10
+        20
+---------
+13
+        20
+---------
+16
+        20
+---------
+20
+        20
+---------
+22
+        20
+---------
+24
+        20
+---------
+26
+        23
+---------
+18
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        20
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        20
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        42
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 1
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+        20
+---------
+ 4
+        20
+---------
+ 7
+        20
+---------
+10
+        20
+---------
+13
+        20
+---------
+16
+        20
+---------
+20
+        20
+---------
+22
+        20
+---------
+24
+        20
+---------
+26
+        23
+---------
+18
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+        20
+---------
+ 4
+        20
+---------
+ 7
+        20
+---------
+10
+        20
+---------
+13
+        20
+---------
+16
+        20
+---------
+20
+        20
+---------
+22
+        20
+---------
+24
+        20
+---------
+26
+        23
+---------
+18
+         0
+---------
+ 4
+         0
+---------
+ 7
+         0
+---------
+10
+         0
+---------
+13
+         0
+---------
+16
+         0
+---------
+20
+         0
+---------
+22
+         0
+---------
+24
+         0
+---------
+26
+        23
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 16.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_0 is not equal to width 5 of actual signal rt.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 17.  For instance execute/mux_rt_or_rd/, width 32 of formal port input_1 is not equal to width 5 of actual signal rd.
+WARNING: File "G:/Term5/CA Lab/Mips/Mips/Execute.v" Line 24.  For instance execute/mux_rt_or_rd/, width 32 of formal port output_0 is not equal to width 5 of actual signal RdOrRt.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+         5
+---------
+ 1
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18
+4294967295
+---------
+ 4
+         8
+---------
+ 7
+        15
+---------
+10
+         1
+---------
+13
+4294967278
+---------
+16
+        42
+---------
+20
+         0
+---------
+22
+       200
+---------
+24
+         3
+---------
+26
+        18
+---------
+18

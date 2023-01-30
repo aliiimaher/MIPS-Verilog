@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Mips" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/MIPS G:|Term5|CA Lab|Mips|Mips|MIPS.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS G:|Term5|CA Lab|Mips|Mips|MIPS.v/execute - Execute</ClosedNode>
+         <ClosedNode>/MIPS G:|Term5|CA Lab|Mips|Mips|MIPS.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1and2 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1and2.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1and2 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1and2.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS_Stage1and2 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1and2.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/execute - Execute</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/instance_name - Execute</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/execute - Execute</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/writeBack - WriteBack</ClosedNode>
+         <ClosedNode>/WriteBack G:|Term5|CA Lab|Mips|Mips|WriteBack.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Ex_Mem_Reg - EX_MEM_Reg (G:/Term5/CA Lab/Mips/Mips/EX_MEM_Reg.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000015b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000015b0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Ex_Mem_Reg - EX_MEM_Reg (G:/Term5/CA Lab/Mips/Mips/EX_MEM_Reg.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002c60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Cache.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUControlUnit_TB G:|Term5|CA Lab|Mips|Mips|ALUControlUnit_TB.v</ClosedNode>
+         <ClosedNode>/ALU_TB G:|Term5|CA Lab|Mips|Mips|ALU_TB.v</ClosedNode>
+         <ClosedNode>/Cache_TB G:|Term5|CA Lab|Mips|Mips|Cache_TB.v</ClosedNode>
+         <ClosedNode>/ControlUnit_TB G:|Term5|CA Lab|Mips|Mips|ControlUnit_TB.v</ClosedNode>
+         <ClosedNode>/DataMemory_TB G:|Term5|CA Lab|Mips|Mips|DataMemory_TB.v</ClosedNode>
+         <ClosedNode>/Decode_TB G:|Term5|CA Lab|Mips|Mips|Decode_TB.v</ClosedNode>
+         <ClosedNode>/Decode_TB G:|Term5|CA Lab|Mips|Mips|Decode_TB.v/uut - Decode</ClosedNode>
+         <ClosedNode>/EX_MEM_Reg_TB G:|Term5|CA Lab|Mips|Mips|EX_MEM_Reg_TB.v</ClosedNode>
+         <ClosedNode>/Execute_TB G:|Term5|CA Lab|Mips|Mips|Execute_TB.v</ClosedNode>
+         <ClosedNode>/Fetch_TB G:|Term5|CA Lab|Mips|Mips|Fetch_TB.v</ClosedNode>
+         <ClosedNode>/ID_EX_Reg_TB G:|Term5|CA Lab|Mips|Mips|ID_EX_Reg_TB.v</ClosedNode>
+         <ClosedNode>/IF_ID_Reg_TB G:|Term5|CA Lab|Mips|Mips|IF_ID_Reg_TB.v</ClosedNode>
+         <ClosedNode>/InstructionMemory_TB G:|Term5|CA Lab|Mips|Mips|InstructionMemory_TB.v</ClosedNode>
+         <ClosedNode>/MEM_WB_Reg_TB G:|Term5|CA Lab|Mips|Mips|MEM_WB_Reg_TB.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1and2 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1and2.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1and2 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1and2.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS_Stage1and2 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1and2.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/execute - Execute</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to3 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to3.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/decode - Decode</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/execute - Execute</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/fetch - Fetch</ClosedNode>
+         <ClosedNode>/MIPS_Stage1to5 G:|Term5|CA Lab|Mips|Mips|MIPS_Stage1to5.v/writeBack - WriteBack</ClosedNode>
+         <ClosedNode>/MIPS_TB G:|Term5|CA Lab|Mips|Mips|MIPS_TB.v</ClosedNode>
+         <ClosedNode>/Mux_2to1_TB G:|Term5|CA Lab|Mips|Mips|Mux_2to1_TB.v</ClosedNode>
+         <ClosedNode>/PC_Reg_TB G:|Term5|CA Lab|Mips|Mips|PC_Reg_TB.v</ClosedNode>
+         <ClosedNode>/RegisterFile_TB G:|Term5|CA Lab|Mips|Mips|RegisterFile_TB.v</ClosedNode>
+         <ClosedNode>/SignExtend_TB G:|Term5|CA Lab|Mips|Mips|SignExtend_TB.v</ClosedNode>
+         <ClosedNode>/WriteBack_TB G:|Term5|CA Lab|Mips|Mips|WriteBack_TB.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>RegisterFile_TB (G:/Term5/CA Lab/Mips/Mips/RegisterFile_TB.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >9</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000148000000020000000000000000000000000200000064ffffffff000000810000000300000002000001480000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>RegisterFile_TB (G:/Term5/CA Lab/Mips/Mips/RegisterFile_TB.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000010a000000010000000100000000000000000000000064ffffffff0000008100000000000000010000010a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

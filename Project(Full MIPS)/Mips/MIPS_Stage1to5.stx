@@ -1,0 +1,92 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to G:/Term5/CA Lab/Mips/Mips/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 1.01 secs
+ 
+--> Parameter xsthdpdir set to G:/Term5/CA Lab/Mips/Mips/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 1.01 secs
+ 
+--> Reading design: MIPS_Stage1to5.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\SignExtend.v" into library work
+Parsing module <SignExtend>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\RegisterFile.v" into library work
+Parsing module <RegisterFile>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\PC_Reg.v" into library work
+Parsing module <PC_Reg>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\Mux_2to1.v" into library work
+Parsing module <Mux_2to1>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\InstructionMemory.v" into library work
+Parsing module <InstructionMemory>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\Cache.v" into library work
+Parsing module <Cache>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\ALUControlUnit.v" into library work
+Parsing module <ALUControlUnit>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\ALU.v" into library work
+Parsing module <ALU>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\WriteBack.v" into library work
+Parsing module <WriteBack>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\MEM_WB_Reg.v" into library work
+Parsing module <MEM_WB_Reg>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\IF_ID_Reg.v" into library work
+Parsing module <IF_ID_Reg>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\ID_EX_Reg.v" into library work
+Parsing module <ID_EX_Reg>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\Fetch.v" into library work
+Parsing module <Fetch>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\EX_MEM_Reg.v" into library work
+Parsing module <EX_MEM_Reg>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\Execute.v" into library work
+Parsing module <Execute>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\Decode.v" into library work
+Parsing module <Decode>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\DataMemory.v" into library work
+Parsing module <DataMemory>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\ControlUnit.v" into library work
+Parsing module <ControlUnit>.
+Analyzing Verilog file "G:\Term5\CA Lab\Mips\Mips\MIPS_Stage1to5.v" into library work
+Parsing module <MIPS_Stage1to5>.
+
+
+Total REAL time to Xst completion: 7.00 secs
+Total CPU time to Xst completion: 6.63 secs
+ 
+--> 
+
+Total memory usage is 4495020 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

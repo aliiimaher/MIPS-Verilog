@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+PC_Reg instance_name (
+    .address(address), 
+    .clk(clk), 
+    .hitBit(hitBit), 
+    .nextAddress(nextAddress)
+    );
+
+

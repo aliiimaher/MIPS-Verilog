@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+WriteBack instance_name (
+    .MemtoReg(MemtoReg), 
+    .readData(readData), 
+    .ALUResult(ALUResult), 
+    .writeData(writeData)
+    );
+
+

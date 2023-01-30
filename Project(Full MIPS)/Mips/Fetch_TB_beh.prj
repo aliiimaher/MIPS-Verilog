@@ -1,0 +1,7 @@
+verilog work "PC_Reg.v"
+verilog work "Mux_2to1.v"
+verilog work "InstructionMemory.v"
+verilog work "Cache.v"
+verilog work "Fetch.v"
+verilog work "Fetch_TB.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

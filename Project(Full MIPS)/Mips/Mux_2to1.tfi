@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+Mux_2to1 instance_name (
+    .input_0(input_0), 
+    .input_1(input_1), 
+    .selector(selector), 
+    .output_0(output_0)
+    );
+
+

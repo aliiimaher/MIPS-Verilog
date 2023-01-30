@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+IF_ID_Reg instance_name (
+    .clk(clk), 
+    .next_pc(next_pc), 
+    .instruction(instruction), 
+    .hit(hit), 
+    .instruction_out(instruction_out), 
+    .next_pc_out(next_pc_out), 
+    .hit_out(hit_out)
+    );
+
+

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/WriteBack.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//WriteBack.v" -module WriteBack -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

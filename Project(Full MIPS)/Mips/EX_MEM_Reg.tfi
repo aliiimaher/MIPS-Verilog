@@ -1,0 +1,30 @@
+
+
+
+// Instantiate the module
+EX_MEM_Reg instance_name (
+    .clk(clk), 
+    .hit(hit), 
+    .branchTarget(branchTarget), 
+    .zeroFlag(zeroFlag), 
+    .ALUResult(ALUResult), 
+    .readData2(readData2), 
+    .writeReg(writeReg), 
+    .MemRead(MemRead), 
+    .MemWrite(MemWrite), 
+    .Branch(Branch), 
+    .RegWrite(RegWrite), 
+    .MemToReg(MemToReg), 
+    .branchTargetOut(branchTargetOut), 
+    .zeroFlagOut(zeroFlagOut), 
+    .ALUResultOut(ALUResultOut), 
+    .readData2Out(readData2Out), 
+    .writeRegOut(writeRegOut), 
+    .MemReadOut(MemReadOut), 
+    .MemWriteOut(MemWriteOut), 
+    .BranchOut(BranchOut), 
+    .RegWriteOut(RegWriteOut), 
+    .MemToRegOut(MemToRegOut)
+    );
+
+

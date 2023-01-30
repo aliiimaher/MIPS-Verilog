@@ -1,0 +1,3 @@
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/ID_EX_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//ID_EX_Reg.v" -module ID_EX_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/ID_EX_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//ID_EX_Reg.v" -module ID_EX_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/ID_EX_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//ID_EX_Reg.v" -module ID_EX_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

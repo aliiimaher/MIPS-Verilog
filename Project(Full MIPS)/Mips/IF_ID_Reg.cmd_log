@@ -1,0 +1,9 @@
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//IF_ID_Reg.v" -module IF_ID_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//IF_ID_Reg.v" -module IF_ID_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.xst" -ofn "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa7a100t-csg324-2I "IF_ID_Reg.ngc" IF_ID_Reg.ngd  
+map -intstyle ise -p xa7a100t-csg324-2I -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o IF_ID_Reg_map.ncd IF_ID_Reg.ngd IF_ID_Reg.pcf 
+xst -intstyle ise -ifn "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.xst" -ofn "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.syr" 
+par -w -intstyle ise -ol high -mt off IF_ID_Reg_map.ncd IF_ID_Reg.ncd IF_ID_Reg.pcf 
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//IF_ID_Reg.v" -module IF_ID_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Mips -o "G:/Term5/CA Lab/Mips/Mips/IF_ID_Reg.tfi" -lib work "G:/Term5/CA Lab/Mips/Mips//IF_ID_Reg.v" -module IF_ID_Reg -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

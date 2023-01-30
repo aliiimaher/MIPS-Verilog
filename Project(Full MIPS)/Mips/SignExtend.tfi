@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+SignExtend instance_name (
+    .value(value), 
+    .sign_extended_value(sign_extended_value)
+    );
+
+
