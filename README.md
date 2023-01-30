@@ -22,12 +22,13 @@ Five stages of a microprocessor:
 4. BEQ
 5. SLTI
 
+-----
 
 ### Supplementary Details:
 
 This is MIPS 32 bits architecture with a 5-stage design to implement in 6 homework. And this is for the "Computer Architecture Lab" course at Shiraz university in Fall 2022.
 
-
+-----
 
 ### How to run project?
 
