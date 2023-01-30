@@ -15,7 +15,7 @@ Five stages of a microprocessor:
 
 -----
 
-·Instructions supported:
+* Instructions supported:
 1. R-type Instructions (ADD, SUB, AND, OR, SLT, LSL, LSR, NOT)
 2. LW and SW
 3. ADDI
